@@ -1,6 +1,6 @@
 <h1>🌐 Basic HTML Website Project</h1>
 
-<p>This project is built based on the roadmap from <a href="https://roadmap.sh/projects/basic-html-website" target="_blank">roadmap.sh</a>, specifically the <strong>Basic HTML Website</strong> project.</p>
+<p>This project is built based on the roadmap from <a href="https://roadmap.sh/projects/portfolio-website" target="_blank">roadmap.sh</a>, specifically the <strong>Basic HTML Website</strong> project. I also already make a portfolio web, check it out <a href="https://josua-resume.vercel.app/">Josua's Portfolio</a></p>
 
 <h2>📁 Pages</h2>
 <ul>
